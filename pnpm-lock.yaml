@@ -12,6 +12,12 @@ importers:
         specifier: ^8.1.3
         version: 8.1.3(encoding@0.1.13)
 
+  packages/utils:
+    devDependencies:
+      typescript:
+        specifier: ^5.4.5
+        version: 5.4.5
+
 packages:
 
   '@babel/code-frame@7.24.6':
